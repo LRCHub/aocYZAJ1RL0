@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "cigirl",
+  "base_artist": "Lilniina",
+  "createdAt": "2026-03-12T13:06:36.730557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "cigirl - Sped Up",
+      "artist": "Lilniina",
+      "has_synced": true,
+      "path": "select/01_cigirl_-_Sped_Up_Lilniina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "cigirl",
+      "artist": "Lilniina",
+      "has_synced": true,
+      "path": "select/02_cigirl_Lilniina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "cigirl",
+      "artist": "Lilniina",
+      "has_synced": false,
+      "path": "select/pl_01_cigirl_Lilniina.txt"
+    }
+  ]
+}
